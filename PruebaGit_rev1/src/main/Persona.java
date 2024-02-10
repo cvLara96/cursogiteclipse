@@ -18,5 +18,6 @@ public class Persona {
 	
 	//Setter
 	public void setNombre(String nombre) {this.nombre = nombre;}
+	public void setEdad(int edad) {this.edad = edad;}
 	
 }
