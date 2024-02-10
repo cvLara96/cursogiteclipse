@@ -11,5 +11,8 @@ public class Persona {
 	//Constructor
 	public Persona() {};
 	
+	//Getter
+	public String nombre() {return this.nombre;}
+	
 
 }
