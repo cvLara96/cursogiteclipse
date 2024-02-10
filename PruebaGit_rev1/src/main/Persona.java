@@ -8,5 +8,8 @@ public class Persona {
 	String dni;
 	String direccion;
 	
+	//Constructor
+	public Persona() {};
+	
 
 }
