@@ -12,6 +12,7 @@ public class ClaseUno {
 		persona.setNombre("Carlos");
 		
 		System.out.println("Creamos prueba para subir al servidor2");
+		System.out.println("Cambios para GITHUB");
 
 	}
 
