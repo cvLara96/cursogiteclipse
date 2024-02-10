@@ -10,6 +10,8 @@ public class ClaseUno {
 		Persona persona = new Persona();
 		persona.setEdad(18);
 		persona.setNombre("Carlos");
+		
+		System.out.println("Creamos prueba para subir al servidor");
 
 	}
 
