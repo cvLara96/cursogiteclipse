@@ -12,7 +12,9 @@ public class Persona {
 	public Persona() {};
 	
 	//Getter
-	public String nombre() {return this.nombre;}
+	public String getNombre() {return this.nombre;}
 	
-
+	//Setter
+	public void setNombre(String nombre) {this.nombre = nombre;}
+	
 }
