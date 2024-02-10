@@ -13,6 +13,8 @@ public class Persona {
 	
 	//Getter
 	public String nombre() {return this.nombre;}
+	public String getApellidos() {return this.apellidos;}
+	
 	
 
 }
