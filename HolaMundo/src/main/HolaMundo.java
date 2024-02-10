@@ -1,4 +1,4 @@
-package holamundo;
+package main;
 
 public class HolaMundo {
 
