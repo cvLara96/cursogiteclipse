@@ -11,7 +11,7 @@ public class ClaseUno {
 		persona.setEdad(18);
 		persona.setNombre("Carlos");
 		
-		System.out.println("Creamos prueba para subir al servidor");
+		System.out.println("Creamos prueba para subir al servidor2");
 
 	}
 
