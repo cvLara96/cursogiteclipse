@@ -15,6 +15,7 @@ public class Persona {
 	public String getNombre() {return this.nombre;}
 	public String getApellidos() {return this.apellidos;}
 	public int getEdad() {return this.edad;}
+	public String getDNI() {return this.dni;}
 
 	
 	//Setter
